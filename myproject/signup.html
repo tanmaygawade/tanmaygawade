@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Create Account</title>
+    <link rel="stylesheet" href="signin.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+    <link rel="shortcut icon" href="images/logo.svg" />
+</head>
+
+<body>
+    <a href="index.html">
+        <div class="back" id="cross">
+            <i class="fa fa-times" aria-hidden="true"></i>
+        </div>
+    </a>
+    <hr />
+    <div class="main">
+
+        <div class="email">
+            <form action="" id="signin">
+                <h1>Create an account</h1>
+                <div class="mail">
+                    <input type="email" id="email" class="inputText" required />
+                    <span class="floating-label">Email address</span>
+                </div>
+
+                <div class="mail">
+                    <input type="text" id="f_name" class="inputText" required /><br />
+                    <span class="floating-label">First name</span>
+                </div>
+                <div class="mail">
+                    <input type="text" id="l_name" class="inputText" required /><br />
+                    <span class="floating-label">Last name</span>
+                </div>
+                <div class="mail">
+                    <input type="password" id="password" class="inputText" minlength="8" maxlength="30" required />
+                    <i class="fa fa-eye" id="togglePassword"></i><br />
+                    <span class="floating-label">Password</span>
+                </div>
+
+
+                <input type="submit" value="Continue" id="create" />
+                <p>This is a public or shared device</p>
+                <p style="text-align: center">
+                    Already have an account?<a href="login.html"><span>Sign in</span></a>
+                </p>
+                <p style="text-align: center;">or continue with</p>
+            </form>
+        </div>
+    </div>
+    <script src="signin.js"></script>
+
+</body>
+
+</html>

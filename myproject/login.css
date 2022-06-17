@@ -1,0 +1,187 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.main {
+    display: flex;
+    width: 37%;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+    margin-top: 10px;
+    justify-content: center;
+
+}
+
+/* .facebook,
+.email {
+    width: 50%;
+
+    margin: 10px 5px
+} */
+
+input {
+    width: 80%;
+    height: 48px;
+    margin: 5px 0px;
+}
+
+.email>form>p {
+
+    margin: 0px;
+    margin: 0px 10px 0px 0px;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+
+    color: #747474
+}
+
+.email>form>p>a>span {
+    color: #007EAC;
+}
+
+.email>form>p>a {
+    text-decoration: none;
+    color: #007EAC
+}
+
+.email>form>p>a:hover {
+    text-decoration: underline #007EAC;
+    ;
+}
+
+.email>form>div>i {
+    position: relative;
+    margin-left: -35px;
+    cursor: pointer;
+    bottom: 5px;
+    font-size: 18px;
+    color: #555555;
+}
+
+#create {
+    background-color: #C83259;
+    color: white;
+    width: 96%;
+    border: none;
+    font-size: 18px;
+    margin: 15px 0px;
+}
+
+#create:hover {
+    background-color: #82223c;
+}
+
+.email>form>h1,
+.facebook>h1 {
+    margin: 30px 10px;
+}
+
+.email>form>.mail {
+    position: relative;
+}
+
+/* place holder anime */
+
+
+input:focus~.floating-label,
+input:not(:focus):valid~.floating-label {
+    top: 12px;
+    bottom: 10px;
+    left: 15px;
+    font-size: 11px;
+    opacity: 1;
+}
+
+.inputText {
+    font-size: 14px;
+    width: 95%;
+    height: 48px;
+    padding-left: 15px;
+    padding-top: 12px;
+    border: 1px solid rgb(196, 196, 196);
+
+}
+
+
+.floating-label {
+    position: absolute;
+    pointer-events: none;
+    left: 15px;
+    top: 22px;
+    transition: 0.2s ease all;
+    color: gray;
+}
+
+
+
+.back {
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+}
+
+.back>i {
+    font-size: 25px;
+    padding: 10px;
+    color: #007EAC;
+}
+
+/* .apple>i,
+.face>i {
+    position: absolute;
+    color: #007EAC;
+    right: 30px;
+    font-size: 20px;
+    top: 12px;
+} */
+
+#checkbox {
+    width: 15px;
+}
+
+#keepid {
+    position: relative;
+    bottom: 20px;
+    left: 10px;
+}
+
+#pw {
+    position: relative;
+    bottom: 20px;
+    left: 170px;
+}
+
+#keep {
+    margin: 0px 0px;
+}
+
+.back:hover {
+    border: 1px solid black;
+}
+
+/* sigun responsive */
+@media(max-width:1000px) {
+    .main {
+        width: 90%;
+    }
+
+}
+
+@media(max-width:600px) {
+    .main {
+        width: 90%;
+        flex-direction: column;
+        border: 1px solid red;
+    }
+
+    /* 
+    .facebook,
+    .email {
+        width: 90%;
+        margin: auto;
+    } */
+
+
+}
