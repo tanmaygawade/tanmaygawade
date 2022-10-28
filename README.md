@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I am Vedprakash Paswan</h1>
+<h1 align="center">Hi 👋, I am Tanmay Gawade</h1>
 <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Java+Backend+Developer;Web+Developer;Quick+learner;Self+Motivated;Problem+Solver;&color=teal&center=true" />
 </div>
@@ -20,11 +20,11 @@ A passionate Developer, who loves to create beautiful and functional websites. p
 ⚡ Quick learner<br>
 💬 Ask me about Javascript, Java, HTML, CSS, DSA<br>
 
-📫 How to reach me: vedpaswan01@gmail.com <br>
+📫 How to reach me: tanmaygawade19@gmail.com <br>
 
-⚡ Want to Know More About Experiance: [Check out My Resume](https://drive.google.com/file/d/1sf5JkcwingAln2rLzN_Pb4Z32oieW7MD/view?usp=sharing)<br>
+⚡ Want to Know More About Experiance: [Check out My Resume](https://drive.google.com/file/d/1Ilr47ndsPOSl6bCXg28IFYhvw8nWVHiN/view?usp=sharing)<br>
 
-Want to know more about me? [Check out My Portfolio](https://vedpaswan01.github.io/)
+Want to know more about me? [Check out My Portfolio](https://tanmaygawade.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
