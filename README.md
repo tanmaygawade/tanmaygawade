@@ -75,4 +75,4 @@ Want to know more about me? [Check out My Portfolio](https://tanmaygawade.github
 ![](https://github-profile-trophy.vercel.app/?username=tanmaygawade=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![]([![](https://visitcount.itsvg.in/api?id=tanmaygawade&label=knk&pretty=false)](https://visitcount.itsvg.in))
+![]([![](https://visitcount.itsvg.in/api?id=tanmaygawade&label=knk&pretty=false)](https://visitcount.itsvg.in))
