@@ -72,7 +72,7 @@ Want to know more about me? [Check out My Portfolio](https://tanmaygawade.github
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Vedpaswan01&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=tanmaygawade=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Vedpaswan01&icon=2&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=tanmaygawade&icon=2&color=0)](https://visitcount.itsvg.in)
